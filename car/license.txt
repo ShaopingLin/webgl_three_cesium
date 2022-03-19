@@ -1,11 +1,11 @@
 Model Information:
-* title:	(FREE) Porsche 911 Carrera 4S
-* source:	https://sketchfab.com/3d-models/free-porsche-911-carrera-4s-d01b254483794de3819786d93e0e1ebf
-* author:	Karol Miklas (https://sketchfab.com/karolmiklas)
+* title:	Lamborghini Aventador LP750-4 SV
+* source:	https://sketchfab.com/3d-models/lamborghini-aventador-lp750-4-sv-fec3fec276d240f6b8a660e2a7874435
+* author:	Hari (https://sketchfab.com/Hari31)
 
 Model License:
-* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
-* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "(FREE) Porsche 911 Carrera 4S" (https://sketchfab.com/3d-models/free-porsche-911-carrera-4s-d01b254483794de3819786d93e0e1ebf) by Karol Miklas (https://sketchfab.com/karolmiklas) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+This work is based on "Lamborghini Aventador LP750-4 SV" (https://sketchfab.com/3d-models/lamborghini-aventador-lp750-4-sv-fec3fec276d240f6b8a660e2a7874435) by Hari (https://sketchfab.com/Hari31) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
